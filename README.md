@@ -1,0 +1,1 @@
+This is a small template for a vite  tailwind js base form my trainings
